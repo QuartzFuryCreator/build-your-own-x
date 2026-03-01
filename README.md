@@ -10,10 +10,7 @@ It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
-* [Front-end Framework / Library](#build-your-own-front-end-framework--library)
-* [Game](#build-your-own-game)
-* [Git](#build-your-own-git)
-* [Network Stack](#build-your-own-network-stack)
+* [Front-end Framework / Lib
 * [Neural Network](#build-your-own-neural-network)
 * [Operating System](#build-your-own-operating-system)
 * [Physics Engine](#build-your-own-physics-engine)
